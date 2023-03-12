@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OtabekToshtemirov
-- 👀 I’m interested in ...React
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Frontend
+- 🌱 I’m currently learning ...React
 - 📫 How to reach me ...
 
 <!---
