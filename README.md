@@ -4,7 +4,7 @@ Building engaging web experiences that drive impact is my jam!  I love tackling 
 
 **Here's a glimpse into my journey:**
 
-* **1+ years of experience** bringing pixels to life with **HTML, CSS, JavaScript, React, Bootstrap, and APIs.**
+* **2+ years of experience** bringing pixels to life with **HTML, CSS, JavaScript, React, Bootstrap, and APIs.**
 * **Proven track record** of improving user engagement and business results through impactful design and development. 
 * **Bachelor's degree in Computer Science** and dedicated to continuous learning through online certifications. 
 * **Passionate about mentoring:** I love sharing my knowledge and inspiring the next generation of coders. ‍✨
